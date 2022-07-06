@@ -1,0 +1,11 @@
+  "AcademyPayoutAddress": "Menager payout account",
+  "Scholars": [
+    {
+      "Name": "Scholar 1",
+      "PrivateKey": "",
+      "AccountAddress": "",
+      "ScholarPayoutAddress": "Scholar payout addres",
+      "ScholarPayoutPercentage": 0.6,
+      "LastClaim": 0
+    }
+    ]
